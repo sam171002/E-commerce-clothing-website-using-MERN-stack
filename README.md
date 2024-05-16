@@ -1,6 +1,6 @@
 MERN STACK E-COMMERCE CLOTHING WEBSITE: 
 StyleScoop integrates MongoDB, Express.js, React.js and Node.js  (MERN) stack to power its dynamic e-commerce platform. This  technology stack enables seamless management of product  catalogues and user data while ensuring scalability and performance.
-Within StyleScoop, users can explore distinct categories catering to  men, women, and kids, offering a diverse array of trendy clothing  options.From managing product listings and monitoring  orders to adjusting inventory levels, the admin panel streamlines e-  commerce operations. It also facilitates efficient order processing and  customer communication, enhancing overall user satisfaction. ![image]
+Within StyleScoop, users can explore distinct categories catering to  men, women, and kids, offering a diverse array of trendy clothing  options.From managing product listings and monitoring  orders to adjusting inventory levels, the admin panel streamlines e-  commerce operations. It also facilitates efficient order processing and  customer communication, enhancing overall user satisfaction. 
 The intuitive interface facilitates easy navigation through.
 Interfaces within this e- commerce website:
 
