@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+MERN STACK E-COMMERCE CLOTHING WEBSITE: 
+StyleScoop integrates MongoDB, Express.js, React.js and Node.js  (MERN) stack to power its dynamic e-commerce platform. This  technology stack enables seamless management of product  catalogues and user data while ensuring scalability and performance.
+Within StyleScoop, users can explore distinct categories catering to  men, women, and kids, offering a diverse array of trendy clothing  options. The intuitive interface facilitates easy navigation through.
+Interfaces within this e- commerce website:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2024-04-13 173900](https://github.com/sam171002/E-commerce-clothing-website-using-MERN-stack/assets/135448018/a126b028-1b9f-4e9e-b0cb-7ae992cf7fa3)
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-04-13 174741](https://github.com/sam171002/E-commerce-clothing-website-using-MERN-stack/assets/135448018/12638504-0e73-4708-87db-a62694f0a2f9)
+![Screenshot 2024-04-13 174632](https://github.com/sam171002/E-commerce-clothing-website-using-MERN-stack/assets/135448018/128a11ff-38b5-42ad-aa39-64764eab9625)
+![Screenshot 2024-04-13 175607](https://github.com/sam171002/E-commerce-clothing-website-using-MERN-stack/assets/135448018/03f1f493-c217-4d6b-9339-00d15e79a662)
+![Screenshot 2024-04-13 174939](https://github.com/sam171002/E-commerce-clothing-website-using-MERN-stack/assets/135448018/f4a8598a-1c25-4b19-af57-98a3481f3130)
+![admin panel 2](https://github.com/sam171002/E-commerce-clothing-website-using-MERN-stack/assets/135448018/c5547a65-d88f-43ab-b3de-5bcfeab45fb3)
+![Screenshot 2024-04-13 174354](https://github.com/sam171002/E-commerce-clothing-website-using-MERN-stack/assets/135448018/c9d0049f-1f69-458d-b79a-91ce21bb55b4)
